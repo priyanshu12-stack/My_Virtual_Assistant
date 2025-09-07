@@ -6,7 +6,7 @@
 
 ## 🌍 Live Demo
 
-👉 [Add your deployed link here](https://your-deployed-link.com)
+👉https://my-virtual-assistant-seven.vercel.app
 
 ---
 
