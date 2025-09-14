@@ -167,7 +167,7 @@ useEffect(() => {
   recognition.onresult = async (e) => {
   const transcript = e.results[e.results.length - 1][0].transcript.trim();
 
-  // ✅ Trigger only when current assistant name is spoken
+  //  Trigger only when current assistant name is spoken
   if (userData?.assistantName && transcript.toLowerCase().includes(userData.assistantName.toLowerCase())) {
     // Remove the assistant name from the spoken command
     const cleanedCommand = transcript.replace(
