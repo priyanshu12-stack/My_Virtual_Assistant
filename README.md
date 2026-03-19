@@ -134,16 +134,6 @@ CLOUDINARY_API_SECRET=
 
 ---
 
-## 📈 Resume-friendly bullet points
-
-* Developed a **MERN-stack Virtual Assistant** with authentication, file uploads, and task automation.
-* Implemented **JWT-based secure authentication** and password hashing with bcrypt.
-* Integrated **Cloudinary** for scalable media storage and management.
-* Designed a responsive **React + Tailwind CSS frontend** with React Router for navigation.
-* Used **MongoDB with Mongoose** to manage structured data.
-* Configured **Vite** for fast development and optimized builds.
-
----
 
 ## 🤝 Contributing
 
